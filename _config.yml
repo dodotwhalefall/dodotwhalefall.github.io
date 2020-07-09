@@ -68,8 +68,8 @@ gitalk:
   admin: jamdodot
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
-# Disqus settings（https://disqus.com/）
-disqus_username: jamdodot
+# # Disqus settings（https://disqus.com/）
+# disqus_username: jamdodot
 
 # 统计
 
