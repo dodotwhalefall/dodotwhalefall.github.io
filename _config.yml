@@ -63,9 +63,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 929e698c5f0c86d4dfab                            #生成的clientID
   clientSecret: e640f292ed46d5ce82283f9e26a3418847c89568    #生成的clientSecret
-  repo: jamdodot.github.io    #仓库名称
-  owner: jamdodot    #github用户名
-  admin: jamdodot
+  repo: 'jamdodot.github.io'    #仓库名称
+  owner: 'jamdodot'    #github用户名
+  admin: ['jamdodot']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # # Disqus settings（https://disqus.com/）
