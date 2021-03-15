@@ -1,7 +1,7 @@
 # Site settings
 title:  sunshine
 SEOTitle: jam's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk.png
 email: jamdodot@gmail.com
 description: "Every failure is leading towards success."
 keyword: "jamdodot's Blog,jamdodot, 赵文强, student"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/dodotwhalefall/dodotwhalefall.github.io" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "人能解决的问题的复杂度取决于抽象的类型和质量"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-jamdodot.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
